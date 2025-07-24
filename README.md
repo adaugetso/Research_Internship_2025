@@ -1,4 +1,4 @@
-# Research Internship 2025
+# AI and Omics Research Internship 2025
 This repository has been created to share all materials related to the internship, including:  
 - Lecture slides and notes  
 - R scripts and code notebooks
